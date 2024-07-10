@@ -56,6 +56,9 @@ body {
     padding: 21px 24px 21px 24px;
     margin-top: 20px;
 }
+.text-center {
+    text-align: center;
+}
 
 /* main design start here  */
 
@@ -234,4 +237,74 @@ margin: 16px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+/* youtubevideo style starts here  */
+.youtubevideo {
+    display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin-bottom: 151px;
+}
+
+.youtubevideo h1 {
+    display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin: 24px 0px;
+font-weight: 800;
+}
+
+.youtubevideo p {
+    margin: 24px 0px;
+    opacity: 0.7;
+}
+
+.video {
+display: flex;
+justify-content: center;
+margin: 10px 0px;
+border-radius: 16px;
+}
+
+/* target design starts here  */
+.target {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+.target-title {
+    margin: 24px 0px;
+    font-weight: 800;
+}
+
+.target-description {
+    opacity: 0.7;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.skill-container {
+    width: 1140px;
+height: 299px;
+    display: flex;
+align-items: center;
+padding: 0px;
+margin: 0 auto;
+}
+
+.skill {
+    padding: 30px;
+}
+.skill-title {
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+}
+.skill-description {
+    font-weight: 400;
+    color: rgb(13, 19, 33);
 }
