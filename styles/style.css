@@ -56,3 +56,182 @@ body {
     padding: 21px 24px 21px 24px;
     margin-top: 20px;
 }
+
+/* main design start here  */
+
+.pageone {
+    margin: o auto;
+    padding: 80px 97px 80px 97px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+.pageone-title {
+    display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin: 24px 0px;
+}
+
+.pageone-content {
+    align-items: center;
+padding: 0px;
+margin: 24px 0px;
+opacity: 0.7;
+}
+.pegeone-one {
+    width: 946px;
+    height: 336px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.leftside-one {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    border-radius: 16px;
+
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.leftside-one h3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    color: rgba(13, 19, 33, 0.7);
+    padding: 0px;
+    margin: 16px 0px
+
+}
+.leftside-one p {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+text-align: left;
+padding: 0px;
+opacity: 0.7;
+margin: 16px 0px;
+}
+
+.button {
+    padding: 12px 20px 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    margin: 32px 0px;
+    font-weight: 600;
+
+}
+
+.rightside-one {
+    width: 50%;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pegeone-two {
+    width: 946px;
+    height: 336px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.leftside-two {
+    width: 50%;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightside-two h3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    color: rgba(13, 19, 33, 0.7);
+    padding: 0px;
+    margin: 16px 0px
+
+}
+.rightside-two p {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+text-align: left;
+padding: 0px;
+opacity: 0.7;
+margin: 16px 0px;
+}
+
+.rightside-two {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    border-radius: 16px;
+
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.pegeone-three {
+    width: 946px;
+    height: 336px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.leftside-three {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    border-radius: 16px;
+
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.leftside-three h3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+    color: rgba(13, 19, 33, 0.7);
+    padding: 0px;
+    margin: 16px 0px
+
+}
+.leftside-three p {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+text-align: left;
+padding: 0px;
+opacity: 0.7;
+margin: 16px 0px;
+}
+
+.rightside-three {
+    width: 50%;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
